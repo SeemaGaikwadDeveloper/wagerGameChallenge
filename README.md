@@ -1,4 +1,4 @@
-# WaggerGameBackendAPI
+# WagerGameBackendAPI
 
 This project is a simple REST API built using .NET Core and C#. It allows players to participate in a game of chance where they can predict a random number between 0 and 9, wager points on their prediction, and win or lose points based on the outcome.
 
