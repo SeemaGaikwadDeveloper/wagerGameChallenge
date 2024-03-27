@@ -1,4 +1,4 @@
-**WaggerGameBackendAPI**
+# WaggerGameBackendAPI
 
 This project is a simple REST API built using .NET Core and C#. It allows players to participate in a game of chance where they can predict a random number between 0 and 9, wager points on their prediction, and win or lose points based on the outcome.
 
@@ -35,7 +35,7 @@ This project is a simple REST API built using .NET Core and C#. It allows player
     "points": 10000
   }
   ```
-- GET /api/game/players**: Endpoint to retrieve a list of all players.
+- GET /api/game/players: Endpoint to retrieve a list of all players.
 
 ### Error Handling
 
